@@ -21,7 +21,7 @@ Welcome to the official distribution repository for the **UniversalTools Mobile 
 
 Since this app is distributed as a direct, lightweight Android Package (APK) for maximum performance:
 
-1.  **Download the APK:** Tap the [Download Link](https://github.com/PandaSL2/UniversalTools-App/releases/download/v1.1.0/UniversalTools.apk) above on your Android device.
+1.  **Download the APK:** Tap the [Download Link](https://github.com/PandaSL2/UniversalTools-App/releases) above on your Android device.
 2.  **Allow Unknown Sources:** If prompted by your browser or file manager:
     *   Go to **Settings** > **Apps & Notifications** > **Special App Access** > **Install Unknown Apps**.
     *   Toggle **Allow from this source** for your browser or file manager.
