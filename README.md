@@ -6,14 +6,6 @@ Welcome to the official distribution repository for the **UniversalTools Mobile 
 
 ---
 
-## 📥 Download Latest Release
-
-To get the latest fully optimized, high-performance release of UniversalTools for Android:
-
-### [👉 DOWNLOAD UNIVERSALTOOLS V1.1.0 APK 👈](https://github.com/PandaSL2/UniversalTools-App/releases/download/v1.1.0/UniversalTools.apk)
-
-
----
 
 ## 🚀 Key App Features
 
