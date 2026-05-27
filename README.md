@@ -12,7 +12,6 @@ To get the latest fully optimized, high-performance release of UniversalTools fo
 
 ### [👉 DOWNLOAD UNIVERSALTOOLS V1.1.0 APK 👈](https://github.com/PandaSL2/UniversalTools-App/releases/download/v1.1.0/UniversalTools.apk)
 
-*Alternatively, you can download the direct `UniversalTools.apk` file committed directly in the root of this repository.*
 
 ---
 
